@@ -1,0 +1,51 @@
+/* Write your CSS code here */
+.blog-item-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  outline-style: solid;
+  outline-color: #8e8e8e;
+  outline-width: 1px;
+  padding: 20px;
+  width: 60vw;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.blog-item-container1 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.blog-item-img1 {
+  width: 250px;
+  height: 150px;
+}
+.blog-item-container2 {
+  display: flex;
+}
+.blog-item-img2 {
+  width: 45px;
+  height: 45px;
+  border-radius: 30px;
+}
+.blog-item-p1 {
+  color: #8e8e8e;
+  font-family: 'roboto';
+}
+.blog-item-h1 {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.blog-item-p2 {
+  color: #8e8e8e;
+  font-family: 'roboto';
+  padding-left: 10px;
+  text-decoration: none;
+}
+.blog-item-link {
+  color: #000000;
+  text-decoration: none;
+}

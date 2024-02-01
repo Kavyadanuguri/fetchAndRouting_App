@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+.blog-item-details-container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blog-item-details-con1 {
+  display: flex;
+  flex-direction: row;
+  margin-left: -420px;
+}
+.blog-item-details-img1 {
+  width: 45px;
+  height: 45px;
+  border-radius: 30px;
+}
+.blog-item-details-p1 {
+  color: black;
+  font-family: 'roboto';
+  padding-left: 10px;
+  font-weight: bold;
+}
+.blog-item-details-img2 {
+  width: 600px;
+  height: 300px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.blog-item-details-p2 {
+  color: #2f4f4f;
+  font-family: 'roboto';
+  width: 600px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.blog-item-details-h1 {
+  font-family: 'roboto';
+  text-align: center;
+  margin-bottom: 30px;
+}
